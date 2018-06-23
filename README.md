@@ -8,7 +8,7 @@
 
 ![](https://upload-images.jianshu.io/upload_images/4340772-c9bbf6ea7b5dfe60.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-
+排名：https://www.nowcoder.com/activity/2018codem/rank2018
 
 ### 比赛过程
 
