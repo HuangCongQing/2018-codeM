@@ -1,6 +1,7 @@
 # 2018-codeM
 
  [*2018*美团*CodeM*编程大赛](https://www.nowcoder.com/activity/2018codem/index?from=503)
+
  本项目包含作者本人[重庆](https://github.com/HuangCongQing)参与的codeM比赛赛题实现
 
 ### 赛制流程
@@ -18,7 +19,17 @@
 
 
 #### 初赛
+A轮
 
+
+B轮
+
+* 开关灯
+* 配送
+* 低位值
+* 神奇盘子
+* 魔法排序
+* 排列序列
 
 #### 复赛
 
