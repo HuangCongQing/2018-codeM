@@ -10,6 +10,12 @@
 
 排名：https://www.nowcoder.com/activity/2018codem/rank2018
 
+### 官方解答
+
+* [美团CodeM2018资格赛赛题详解](https://mp.weixin.qq.com/s?__biz=MjM5NzYyMzIwMg==&mid=2792196938&idx=1&sn=d428289bea8f6f50ce330d1e0526312e&chksm=854e0f87b2398691a59f31dbecdc178f2f82efc54bdc6e308a8f5fc62faec9ee2879ff418a50&mpshare=1&scene=23&srcid=06282wzAroCTvPmk0lQFciBJ#rd)
+* [CodeM2018初赛赛题详解（A/B轮）](https://mp.weixin.qq.com/s?__biz=MjM5NzYyMzIwMg==&mid=2792196944&idx=1&sn=0328e6bd4bdd656be833556fbff8749d&chksm=854e0f9db239868be3f0e5d7d9586ef47dca58995dbf8d86ece252f0c3436e7377c1ecbe86ac&mpshare=1&scene=23&srcid=0628yDWIxK2zRD8d6HwiN8JH#rd)
+
+
 ### 比赛过程
 
 #### 资格赛
